@@ -30,7 +30,8 @@ INSERT INTO Orders(Custumer_id,Product_id,Quantity,Total_amount) VALUES
 'P02',
 2,
 9198
-);INSERT INTO Orders VALUES
+);
+INSERT INTO Orders VALUES
 (
 'C02',
 '28/05/2020',
